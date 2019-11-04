@@ -1,2 +1,7 @@
-# assignment5page
-webpage for assignment5
+# info201-AF-2-Final-Project
+Final project for INFO 201. Data visualization and analysis of global food prices in relation to tempurature. 
+
+Nataile Erj, Ethan Hu, Tyler Su, and Sierrra McKissick
+
+Proposal: https://github.com/LadyInquist/info201final/wiki
+
